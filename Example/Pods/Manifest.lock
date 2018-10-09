@@ -1,0 +1,16 @@
+PODS:
+  - XYCategoryKit (1)
+
+DEPENDENCIES:
+  - XYCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  XYCategoryKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  XYCategoryKit: aee1432f6a572e034590edcd0906a3502a0a18fb
+
+PODFILE CHECKSUM: 4a984210724e25b83643c7c141637f2085146f9f
+
+COCOAPODS: 1.4.0

@@ -1,0 +1,22 @@
+{
+  "name": "XYCategoryKit",
+  "version": "1",
+  "summary": "A short description of XYCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Arabrellaxy/XYCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Arabrellaxy": "xiey@sailwish.com"
+  },
+  "source": {
+    "git": "https://github.com/Arabrellaxy/XYCategoryKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XYCategoryKit/Classes/**/*"
+}
